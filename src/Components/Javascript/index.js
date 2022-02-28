@@ -1,6 +1,6 @@
 import React from "react";
 import Style from "./index.module.css";
-import x from "../Size";
+import Size from "../Size";
 
 const Javascript = () => {
 
